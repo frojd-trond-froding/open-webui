@@ -1,5 +1,5 @@
 {
-	"-1 for no limit, or a positive integer for a specific limit": "-1 för ingen gräns, eller ett positivt heltal för en specifik gräns",
+	"-1 for no limit, or a positive integer for a specific limit": "-1 för ingen gräns, eller ett positivt heltal för en specifik grans",
 	"'s', 'm', 'h', 'd', 'w' or '-1' for no expiration.": "'s', 'm', 'h', 'd', 'w' eller '-1' för inget utgångsdatum",
 	"(e.g. `sh webui.sh --api --api-auth username_password`)": "(t.ex. `sh webui.sh --api --api-auth username_password`)",
 	"(e.g. `sh webui.sh --api`)": "(t.ex. `sh webui.sh --api`)",
